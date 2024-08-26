@@ -25,4 +25,3 @@
 <a target="_blank" href="https://www.instagram.com/abdelrhman_aadel" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanadel200&show_icons=true&locale=en" alt="abdelrhmanadel200" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanadel200&show_icons=true&locale=en&layout=compact" alt="abdelrhmanadel200" /></p>
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
